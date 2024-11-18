@@ -22,3 +22,9 @@ Repository for Everything related to Version 1.8x of the Nextion Based DCCEX Con
 -  With Arduino IDE 2.2.x, with the ESP32 connected, press "CTRL, SHIFT and P" and the upload procedure starts. It'll take a few seconds.
 -  With Adruino IDE 1.8.19, you should find the "ESP32 Sketch Data Upload" in the "Tools" section. Select it and then choose LittleFS. The data files should be uploaded.
 -  If you're in a hurry, use the currently available latest version of the HMI Version 1.7.8 to suit the model you're using. I will be uploading some identical (but renamed) HMIs in zip form to this repo shortly.
+
+# New Feature
+
+- The WiFi Enable button now has a new use:-)
+  - When disabled/Off, when pressing the "Scan" button the list of LittleFS WiFi profiles will be displayed
+  - When enabled/On, the "Scan" button does a scan for local APs

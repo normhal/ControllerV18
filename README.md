@@ -1,3 +1,11 @@
+# 21 November 2024 Update
+- Each update released will now have the date the changes were made included in the sketch name
+  -   Today's version was completed on 20th November:-)
+- Naming of LittleFS data files changed to have .txt extension
+- locos.txt now has no "slot" number - the last variable in each row has been removed
+- Support for defining specific Loco IDs for each of the 4 "Throttles" each in a specified Slot now functional
+- Saving of updated Data NOT YET IMPLEMENTED - coming soon:-)
+
 # ControllerV18
 Repository for Everything related to Version 1.8x of the Nextion Based DCCEX Controller
 
@@ -21,7 +29,6 @@ Repository for Everything related to Version 1.8x of the Nextion Based DCCEX Con
 -  When the sketch has compiled, you'll need to upload the LittleFS data. In the Arduino Sketch folder you'll find a new "data" folder which contains 5 .csv files. Example data has been prepared, but feel free to modify if you feel the need.
 -  With Arduino IDE 2.2.x, with the ESP32 connected, press "CTRL, SHIFT and P" and the upload procedure starts. It'll take a few seconds.
 -  With Adruino IDE 1.8.19, you should find the "ESP32 Sketch Data Upload" in the "Tools" section. Select it and then choose LittleFS. The data files should be uploaded.
--  If you're in a hurry, use the currently available latest version of the HMI Version 1.7.8 to suit the model you're using. I will be uploading some identical (but renamed) HMIs in zip form to this repo shortly.
 
 # New Feature
 

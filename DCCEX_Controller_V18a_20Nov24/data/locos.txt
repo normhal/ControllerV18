@@ -6,7 +6,7 @@ ID,LongName,ShortName,Type,RoadNumber,Address
 4,Conrail,Conrail,S2,5123,23
 5,Conrail,Conrail,SD60-M,58,23
 6,Seaboard,Seaboard,GMD1A,1430,30
-7,Doodlebug,BO,DBug,3100,31
+7,B&O Doodlebug,B&O,DoodleBg,3100,31
 8,Canadian National BCOL,CNBCOL,Dash840C,58,46
 9,Union Pacific,UnionP,GP2047,58,47
 10,Rio Grande,RioGrnd,SD60-M,5200,52

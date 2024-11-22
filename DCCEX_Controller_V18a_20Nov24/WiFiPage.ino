@@ -83,9 +83,9 @@ void wifiPage(uint8_t button)
       case Scan_Press:
         if(WiFiEnabled == 0) listName = CREDs;
         else listName = SSIDs;
-//        listName = CREDs;
-//        writeEEPROMByte(eeWiFiEnabled, WiFiEnabled);
-//        nextionSetValue("WiFiEN",0);
+        writeEEPROMByte(eeWiFiEnabled, WiFiEnabled);
+        nextionSetValue("WiFiEN",0);
+        wifiImage = WIFI_X;
         Serial.println(listName);
         returnPage = WiFiPage;
         initPage(SelectionPage);
@@ -108,6 +108,7 @@ void wifiPage(uint8_t button)
         WiFiEnabled = 0;
         writeEEPROMByte(eeWiFiEnabled, WiFiEnabled);                //WiFi default
         nextionSetText("Progress", "Disabling WiFi...");
+        wait(1000);
         nextionCommand("Sig.pic=" + String(WIFI_X));
         updateWiFi();
         break;

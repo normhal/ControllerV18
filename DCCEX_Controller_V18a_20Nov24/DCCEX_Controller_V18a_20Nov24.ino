@@ -130,8 +130,8 @@ Data Pulses - Pico pin GPIO4
 - Swop Clock and Data to change rotation direction
 
 Nextion Display to UART2
-Hardware Serial RX - Pico pin GPIO8 to Nextion TX wire (Blue)
-Hardware Serial TX - Pico pin GPIO9 to Nextion RX wire (Yellow)
+Hardware Serial RX - Pico pin GPIO9 to Nextion TX wire (Blue)
+Hardware Serial TX - Pico pin GPIO8 to Nextion RX wire (Yellow)
 
 Connection to Command Station (for debug Console or if using Direct Connection to Command Station)
 Hardware Serial RX - Pico pin GPIO3 to DCC++, DCC-EX, or HC-12 TX pin

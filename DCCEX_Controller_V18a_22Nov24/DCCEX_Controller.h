@@ -22,7 +22,7 @@
   #define DCCEXCONTROLLER_H
 
   #define Version "V1.8a1"
-  uint8_t EEPROMCODE = 180;
+  uint8_t EEPROMCODE = 181;
   String TFT_SUFFIX = ".tft";
   
   #include <ff.h>

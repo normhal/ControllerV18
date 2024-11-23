@@ -173,7 +173,7 @@ void initEEPROM()
   writeEEPROMByte(eeDCCRefresh, DCCRefresh);
   writeEEPROMByte(eeWiFiEnabled, WiFiEnabled);                //WiFi default
   writeEEPROMByte(eeAccDelay, AccDelay);
-  writeEEPROMByte(eeWiFiSeconds, wifiSeconds);
+  writeEEPROMByte(eeWiFiSeconds, WIFISECS);
   writeEEPROMByte(eeLocoStopAll, LocoStopAll);
  
   //Initialize every Road Number to 0

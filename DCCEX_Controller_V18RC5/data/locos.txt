@@ -1,0 +1,35 @@
+ID,LongName,ShortName,Type,RoadNumber,Address
+0,Rio Grande,RS3 BY,RS3 BY,5200,52
+1,NYC,H16-44,H16-44,7003,70
+2,Erie Lac,SD 45EMD,SD 45EMD,3619,61
+3,New Haven,44ton NH,44ton NH,18,18
+4,Cleaner,44ton NH,44ton NH,126,126
+5,Seaboard,Sbrd,S2,30,30
+6,Great Northern,S2,S2,1,1
+7,Pennsylvania,NW2Penn,NW2Penn,5918,59
+8,Great Northern,NW2 GN,NW2 GN,154,54
+9,Great Northern,Vo 1000,Vo 1000,5333,53
+10,CN,GMD-1A,GMD-1A,1610,16
+11,NorfolSouthern,ET44AC,Gevo,3631,63
+12,Sante Fe,Cleaner,Cleaner,14,14
+13,N Y Central,NW2 NYC,NW2 NYC,8769,87
+14,BCOL,Dash8-40,Dash8-40,4615,46
+15,Montana Rail Link,F45 EMD,F45 EMD,391,91
+16,Lehigh Valley,U23 B,U23 B,503,50
+17,Clarendon & Pittsford,GP9 TT,GP9 TT,752,75
+18,Boston $ Maine,44T B&M,44T B&M,11,11
+19,Reading Bee Line,SD 45,SD 45,6,6
+20,CN SD 40 Mid,SD 40 2,SD 40 2,6256,56
+21,Reading Green,GP 35,GP 35,3640,36
+22,BNSFDash 8 40 B,Dash 8,Dash 8,8601,86
+23,CSX GP38-2 EMD,GP38-2,GP38-2,2643,43
+24,Union Pacific,SD 45 UP,SD 45 UP,2848,48
+25,Rio grande 44T, 44 Ton, 44 Ton,39,39
+26,Wisconson & Southern,SD40 W&S,SD40 W&S,4006,40
+27,CR&I Yellow,MP 15,MP 15,123,12
+28,Union Pacific SD40-2, Snoot,Snoot,3367,67
+29,Burlington Northern,GP7 Grn,GP7 Grn,1528,28
+30,70 Ton,70 Ton,70 Ton,4,4
+31,Maine Central,RS11 Yel,R 11 Yel,802,80
+32,Yard,yrd,S4,62,62
+33,Burlington Northern,SW1,SW1,81,81

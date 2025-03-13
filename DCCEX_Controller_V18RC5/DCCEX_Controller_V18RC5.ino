@@ -134,8 +134,8 @@ Hardware Serial RX - Pico pin GPIO9 to Nextion TX wire (Blue)
 Hardware Serial TX - Pico pin GPIO8 to Nextion RX wire (Yellow)
 
 Connection to Command Station (for debug Console or if using Direct Connection to Command Station)
-Hardware Serial RX - Pico pin GPIO3 to DCC++, DCC-EX, or HC-12 TX pin
-Hardware Serial TX - Pico pin GPIO1 to DCC++, DCC-EX, or HC-12 RX pin
+Hardware Serial RX - Pico pin GPIO1 to DCC++, DCC-EX, or HC-12 TX pin
+Hardware Serial TX - Pico pin GPIO0 to DCC++, DCC-EX, or HC-12 RX pin
 
 Power supply: 5V to pin 39 (Vsys) with series diode forward.
 https://forums.raspberrypi.com/viewtopic.php?t=334182

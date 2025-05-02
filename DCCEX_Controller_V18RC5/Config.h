@@ -34,8 +34,8 @@
   #define WIFI                    //WiFi support can be disabled here
   #define SHOW_WIFI               //This option shows WiFi commands on the Serial Debug Console for debugging
 
-  #define PREF_SSID "EnKayH_EXT"      //"your_ssid"
-  #define PREF_PASSWORD "00300A796762"      //"your_password"
+  #define PREF_SSID "ssid"      //"your_ssid"
+  #define PREF_PASSWORD "password"      //"your_password"
   #define PREF_IP "10.0.0.28"
   #define PREF_PORT 2560
 
